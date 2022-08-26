@@ -1,3 +1,4 @@
+//Write a program in C language to solve m-Coloring Problem.
 #include<stdio.h>
 #define max 20
 int graph[max][max],x[max];
