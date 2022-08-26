@@ -1,3 +1,4 @@
+//Write a program in C language to solve n-Queen Problem.
 #include<stdio.h>
 #include<math.h>
 int count=0,flag=0;
